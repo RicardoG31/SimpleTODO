@@ -18,10 +18,6 @@ The following **optional** features are implemented:
 
 * [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
@@ -32,7 +28,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Since this was my first time using Android Studio, I experienced issues such as creating and running the emulator. When I tried running my application on the emulator, the emulator screen was completely black, not showing any content, and I had to create a new virtual environment. Then, I also experienced slowness while running the application. Along with that, there were occasions where the application did not run and I had to perform a cold boot on the AVD device to run the application.
 
 ## License
 
